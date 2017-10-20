@@ -1,0 +1,462 @@
+======>>start AC CW Interface
+
+jet_assert malloc:ACInterface.c, func: CWInterface,line 717
+jet_malloc:0x015ae480
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:ACInterface.c, func: CWManageApplication,line 462
+jet_malloc:0x015d7df8
+jet_assert malloc:ACInterface.c, func: CWManageApplication,line 463
+jet_malloc:0x015b1c18
+jet_assert malloc:ACInterface.c, func: CWManageApplication,line 554
+jet_malloc:0x015b1f60
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d7e98
+jet_assert malloc:ACProtocol.c, func: CWProtocolAssembleConfigurationUpdateRequest,line 57
+jet_malloc:0x015d7250
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d7d08
+jet_assert malloc:CWVendorPayloadsAC.c, func: CWAssembleWTPVendorPayloadWUM,line 123
+jet_malloc:0x015d7260
+jet_assert free  :CWVendorPayloadsAC.c, func: CWAssembleWTPVendorPayloadWUM,line 149
+jet_free:0x015b1f60
+jet_assert free  :CWVendorPayloadsAC.c, func: CWAssembleWTPVendorPayloadWUM,line 152
+jet_free:0x015b1c18
+jet_assert free  :CWVendorPayloadsAC.c, func: CWAssembleWTPVendorPayloadWUM,line 153
+jet_free:0x015d7df8
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d3308
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d3308
+jet_assert malloc:CWProtocol.c, func: CWAssembleMsgElem,line 147
+jet_malloc:0x015b1c18
+jet_assert free  :CWProtocol.c, func: CWAssembleMsgElem,line 156
+jet_free:0x015d7260
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d7e98
+jet_assert malloc:CWProtocol.c, func: CWAssembleControlHeader,line 280
+jet_malloc:0x015d7260
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d7e98
+jet_assert malloc:CWProtocol.c, func: CWAssembleMessage,line 416
+jet_malloc:0x015d32a0
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d7e98
+jet_assert free  :CWProtocol.c, func: CWAssembleMessage,line 427
+jet_free:0x015d7260
+jet_assert free  :CWProtocol.c, func: CWAssembleMessage,line 428
+jet_free:0x015b1c18
+jet_assert free  :CWProtocol.c, func: CWAssembleMessage,line 429
+jet_free:0x015d7250
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:CWProtocol.c, func: CWAssembleMessage,line 456
+jet_malloc:0x015d7250
+jet_assert malloc:CWProtocol.c, func: CWAssembleTransportHeader,line 171
+jet_malloc:0x015d7260
+jet_assert malloc:CWProtocol.c, func: CWAssembleMessage,line 471
+jet_malloc:0x015b2528
+jet_assert free  :CWProtocol.c, func: CWAssembleMessage,line 476
+jet_free:0x015d7260
+jet_assert free  :CWProtocol.c, func: CWAssembleMessage,line 477
+jet_free:0x015d32a0
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert free  :ACRetransmission.c, func: CW_FREE_WTP_MSG_ARRAY,line 45
+jet_free:0x015b2528
+jet_assert free  :ACRetransmission.c, func: CW_FREE_WTP_MSG_ARRAY,line 47
+jet_free:0x015d7250
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWThread.c, func: CWTimerRequest,line 733
+jet_malloc:0x015d7250
+jet_assert malloc:CWThread.c, func: CWTimerRequest,line 734
+jet_malloc:0x015d7260
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:ACMainLoop.c, func: CWACManageIncomingPacket,line 149
+jet_malloc:0x015d3630
+jet_assert malloc:CWSafeList.c, func: CWAddElementToSafeListTail,line 220
+jet_malloc:0x015b1c18
+jet_assert free  :CWSafeList.c, func: CWRemoveHeadElementFromSafeList,line 205
+jet_free:0x015b1c18
+jet_assert free  :CWOpenSSLBio.c, func: memory_read,line 138
+jet_free:0x015d3630
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 574
+jet_malloc:0x015b2528
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 601
+jet_malloc:0x015d3308
+jet_assert malloc:CWList.c, func: CWAddElementToList,line 43
+jet_malloc:0x015d7df8
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:ACMainLoop.c, func: CWACManageIncomingPacket,line 149
+jet_malloc:0x015d3630
+jet_assert malloc:CWSafeList.c, func: CWAddElementToSafeListTail,line 220
+jet_malloc:0x015b1c18
+jet_assert free  :CWSafeList.c, func: CWRemoveHeadElementFromSafeList,line 205
+jet_free:0x015b1c18
+jet_assert free  :CWOpenSSLBio.c, func: memory_read,line 138
+jet_free:0x015d3630
+jet_assert malloc:ACMainLoop.c, func: CWACManageIncomingPacket,line 149
+jet_malloc:0x015d3630
+jet_assert malloc:CWSafeList.c, func: CWAddElementToSafeListTail,line 220
+jet_malloc:0x015b1c18
+jet_assert malloc:ACMainLoop.c, func: CWACManageIncomingPacket,line 149
+jet_malloc:0x015d0f08
+jet_assert malloc:CWSafeList.c, func: CWAddElementToSafeListTail,line 220
+jet_malloc:0x015d7f00
+jet_assert malloc:ACMainLoop.c, func: CWACManageIncomingPacket,line 149
+jet_malloc:0x015d7e98
+jet_assert malloc:CWSafeList.c, func: CWAddElementToSafeListTail,line 220
+jet_malloc:0x015d7ee0
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 574
+jet_malloc:0x015d7f18
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 601
+jet_malloc:0x015d1120
+jet_assert malloc:CWList.c, func: CWAddElementToList,line 49
+jet_malloc:0x015b1f60
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert free  :CWSafeList.c, func: CWRemoveHeadElementFromSafeList,line 205
+jet_free:0x015b1c18
+jet_assert free  :CWOpenSSLBio.c, func: memory_read,line 138
+jet_free:0x015d3630
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d08
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 574
+jet_malloc:0x015d7d08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d3630
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d3630
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 601
+jet_malloc:0x015d3630
+jet_assert malloc:CWList.c, func: CWAddElementToList,line 49
+jet_malloc:0x015b1c18
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d38
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d38
+jet_assert free  :CWSafeList.c, func: CWRemoveHeadElementFromSafeList,line 205
+jet_free:0x015d7f00
+jet_assert free  :CWOpenSSLBio.c, func: memory_read,line 138
+jet_free:0x015d0f08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d38
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d38
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d38
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d38
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d38
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d38
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d38
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d38
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d38
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d38
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7d38
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7d38
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 574
+jet_malloc:0x015d7d38
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d3808
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d3808
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 601
+jet_malloc:0x015d3808
+jet_assert malloc:CWList.c, func: CWAddElementToList,line 49
+jet_malloc:0x015d7f00
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert free  :CWSafeList.c, func: CWRemoveHeadElementFromSafeList,line 205
+jet_free:0x015d7ee0
+jet_assert free  :CWOpenSSLBio.c, func: memory_read,line 138
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 574
+jet_malloc:0x015d7d68
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 601
+jet_malloc:0x015d39e0
+jet_assert malloc:CWList.c, func: CWAddElementToList,line 49
+jet_malloc:0x015d39f0
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d0f08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert malloc:CWProtocol.c, func: CWProtocolParseFragment,line 656
+jet_malloc:0x015d12f8
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d0f08
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d0f08
+jet_assert free  :CWProtocol.c, func: CWProtocolDestroyFragment,line 527
+jet_free:0x015d39e0
+jet_assert free  :CWProtocol.c, func: CWProtocolDestroyFragment,line 528
+jet_free:0x015d7d68
+jet_assert free  :CWList.c, func: CWDeleteList,line 168
+jet_free:0x015d39f0
+jet_assert free  :CWProtocol.c, func: CWProtocolDestroyFragment,line 527
+jet_free:0x015d3808
+jet_assert free  :CWProtocol.c, func: CWProtocolDestroyFragment,line 528
+jet_free:0x015d7d38
+jet_assert free  :CWList.c, func: CWDeleteList,line 168
+jet_free:0x015d7f00
+jet_assert free  :CWProtocol.c, func: CWProtocolDestroyFragment,line 527
+jet_free:0x015d3630
+jet_assert free  :CWProtocol.c, func: CWProtocolDestroyFragment,line 528
+jet_free:0x015d7d08
+jet_assert free  :CWList.c, func: CWDeleteList,line 168
+jet_free:0x015b1c18
+jet_assert free  :CWProtocol.c, func: CWProtocolDestroyFragment,line 527
+jet_free:0x015d1120
+jet_assert free  :CWProtocol.c, func: CWProtocolDestroyFragment,line 528
+jet_free:0x015d7f18
+jet_assert free  :CWList.c, func: CWDeleteList,line 168
+jet_free:0x015b1f60
+jet_assert free  :CWProtocol.c, func: CWProtocolDestroyFragment,line 527
+jet_free:0x015d3308
+jet_assert free  :CWProtocol.c, func: CWProtocolDestroyFragment,line 528
+jet_free:0x015b2528
+jet_assert free  :CWList.c, func: CWDeleteList,line 168
+jet_free:0x015d7df8
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d3308
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d3308
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d3308
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d3308
+jet_assert free  :CWThread.c, func: CWTimerFreeArg,line 756
+jet_free:0x015d32e8
+jet_assert free  :CWThread.c, func: CWTimerFreeArg,line 757
+jet_free:0x015b1c08
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d3308
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d3308
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d3308
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d3308
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d3308
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d3308
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d3308
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d3308
+jet_assert malloc:ACRunState.c, func: CWParseConfigurationUpdateResponseMessage,line 586
+jet_malloc:0x015b1c08
+jet_assert malloc:CWProtocol.c, func: CWProtocolRetrieveRawBytes,line 129
+jet_malloc:0x015d1a40
+jet_assert malloc:CWLog.c, func: CWVLog,line 103
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWVLog,line 136
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert free  :CWThread.c, func: CWTimerFreeArg,line 756
+jet_free:0x015d7260
+jet_assert free  :CWThread.c, func: CWTimerFreeArg,line 757
+jet_free:0x015d7250
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:CWThread.c, func: CWTimerRequest,line 733
+jet_malloc:0x015d7250
+jet_assert malloc:CWThread.c, func: CWTimerRequest,line 734
+jet_malloc:0x015d7260
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert malloc:ACRunState.c, func: CWSaveConfigurationUpdateResponseMessage,line 770
+jet_malloc:0x015d2170
+jet_assert free  :ACRunState.c, func: CWSaveConfigurationUpdateResponseMessage,line 811
+jet_free:0x015d2170
+jet_assert free  :ACRunState.c, func: CWSaveConfigurationUpdateResponseMessage,line 812
+jet_free:0x015d1a40
+jet_assert free  :ACRunState.c, func: CWSaveConfigurationUpdateResponseMessage,line 813
+jet_free:0x015b1c08
+jet_assert malloc:CWLog.c, func: CWDebugLog,line 170
+jet_malloc:0x015d7e98
+jet_assert free  :CWLog.c, func: CWDebugLog,line 207
+jet_free:0x015d7e98
+jet_assert free  :ACMainLoop.c, func: CWManageWTP,line 599
+jet_free:0x015d12f8
+
+======>>end   AC CW Interface
